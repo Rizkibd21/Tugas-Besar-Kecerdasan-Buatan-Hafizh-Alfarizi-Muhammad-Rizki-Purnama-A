@@ -1,4 +1,5 @@
-# UAS Kecerdasan Buatan – Klasifikasi Media Cairan
+# Referensi Struktur Laporan Yang Dipilih Adalah Dari Lembar Jawaban Soal UAS Yang Sudah Dikirimkan
+## UAS Kecerdasan Buatan – Klasifikasi Media Cairan
 
 ## 📌 Deskripsi Proyek
 
