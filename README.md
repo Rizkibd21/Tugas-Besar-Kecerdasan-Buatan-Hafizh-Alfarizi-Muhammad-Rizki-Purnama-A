@@ -1,4 +1,4 @@
-# Referensi Struktur Laporan Yang Dipilih Adalah Dari Lembar Jawaban Soal UAS Yang Sudah Dikirimkan
+# Referensi Struktur Laporan Yang Dipilih Adalah Dari Lembar Jawaban Soal UAS (pdf), Tidak Menggunakan Struktur .md
 ## README - UAS Kecerdasan Buatan
 
 ## Judul Proyek
